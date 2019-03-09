@@ -1,0 +1,12 @@
+{
+    "name": "Greenhouse",
+    "description": "Automated greenhouse management using IoT concepts",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_DESKTOP-K6P7GKL.json",
+            "credentialsFile": "flows_DESKTOP-K6P7GKL_cred.json"
+        }
+    }
+}
